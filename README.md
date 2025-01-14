@@ -13,4 +13,4 @@
 <!-- - 💬 Ask me about ... -->
 <!-- - 😄 Pronouns: ... -->
 <!-- - ⚡ Fun fact: ... -->
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=fxck1024&show_icons=true)]()[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fxck1024)]()
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=macklee6&show_icons=true)]()[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=macklee6)]()
