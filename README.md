@@ -9,8 +9,3 @@
 
 - 🔭 Find me here: [Blog](https://arksec.net).
 - ⚡ JavaScript / Python / PHP / Golang / C / Java.
-<!-- - 🤔 I’m looking for help with ... -->
-<!-- - 💬 Ask me about ... -->
-<!-- - 😄 Pronouns: ... -->
-<!-- - ⚡ Fun fact: ... -->
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=marklee369&show_icons=true)]()[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marklee369)]()
